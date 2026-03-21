@@ -101,4 +101,4 @@ Key queries written and executed in MySQL:
 ---
 
 *Prepared by Kratika Yadav | MBA (HR) | Aspiring Business Analyst*
-*Connect: linkedin.com/in/kratikayadav*
+*Connect: linkedin.com/in/kratika-yadav-6b073a284*
