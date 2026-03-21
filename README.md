@@ -68,9 +68,12 @@ monitoring across priority levels and assignment groups.
 
 ## Project Deliverables
 - 📊 [SLA Dashboard PDF](SLA_Dashboard.pdf)
-- 📄 [Business Requirements Document](NexaServ_SLA_BRD.docx)
+- 📄 [Business Requirements Document](NexaServ_SLA_BRD_v3.docx)
 - 📄 [To-Be Process Document](NexaServ_ToBe_Process.docx)
-- 📈 [Process Flow Diagrams](SLA_Process_Diagrams.pdf)
+- 📈 [As-Is Process Diagram](SLA_AsIs_Process.drawio.png)
+- 📈 [To-Be Process Diagram](SLA_ToBe_Process-Page-2.drawio.png)
+- 📈 [Escalation Workflow](SLA_Escalation_workflow.drawio.png)
+- 💾 [SQL Queries](SLA_SQL_Queries.sql)
 
 ---
 
